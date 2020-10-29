@@ -1,0 +1,1 @@
+const veryLongVariableNameThatWillMakeYouSickInstantly = 0;
